@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{95b886ed-bb6d-46b6-bd9e-0fffd287d620}</UniqueIdentifier>
+      <Extensions>*.h</Extensions>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{5cd45e69-9b9e-4c00-87c1-602ac9aa09f0}</UniqueIdentifier>
+      <Extensions>*.cpp</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AtmosferaNode.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Camara.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Dios.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Disparo.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DisparoNode.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="FondoEspacialNode.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GUINode.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Juego.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MarNode.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MegaMensaje.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Pantalla.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Partida.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Planeta.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PlanetaNode.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Sol.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SolNode.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Teclado.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AtmosferaNode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Camara.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Dios.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Disparo.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="DisparoNode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="FondoEspacialNode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="GUINode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Juego.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MarNode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MegaMensaje.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Pantalla.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Partida.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Planeta.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="PlanetaNode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Sol.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="SolNode.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Teclado.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
